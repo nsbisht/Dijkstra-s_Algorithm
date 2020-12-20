@@ -9,7 +9,6 @@ jupyterlab==2.2.6
 jupyterlab_pygments==0.1.2
 jupyterlab_server==1.2.0
 matplotlib==3.3.2
-matplotlib-base==3.3.2
 networkx==2.5
 nodejs==10.13.0
 notebook==6.1.4
