@@ -12,7 +12,6 @@ matplotlib==3.3.2
 networkx==2.5
 notebook==6.1.4
 pip==20.2.4
-python==3.8.6
 voila==0.2.4
 widgetsnbextension==3.5.1
 
